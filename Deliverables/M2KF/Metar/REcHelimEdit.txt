@@ -1,0 +1,10 @@
+Helim16:KFOK,   Forgot to document?
+Helim39:KPWM   HElim39: KPWM (line102),KPWM
+Helim44:,KPSF   HElim44: KPSF (Line 131),KPSF
+Helim57:,ISO    HElim57: ISO (Line 41),ISO
+Helim64:,SBFN6,ISO   HElim64: SBFN6 (Line43),,SBFN6ISO (Line 68),ISO
+Helim69:SBFN6,ISO   HELim69: SBFN6 (Line 65),,SBFN6 ISO (Line 177),ISO
+Helim105:,ISO     HElim105: ISO (Line126),ISO
+
+
+Helim81?,ISO Line 284 ERROR WENT UNOTICED (KAL SCATTER) BC SO LATE IN THE CHAIN... MIGHT REDO
